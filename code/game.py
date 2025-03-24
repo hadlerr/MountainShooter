@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-<<<<<<< HEAD
-
 import pygame
 
 from code.menu import Menu
@@ -24,11 +22,3 @@ class Game:
         #     if event.type == pygame.QUIT:
         #         pygame.quit()  # Close Window
         #         quit()  # end pygame
-=======
-class Game:
-    def __init__(self):
-        self.window = None
-
-    def run(self, ):
-        pass
->>>>>>> origin/master
